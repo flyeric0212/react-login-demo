@@ -3,7 +3,6 @@
 # 默认值，如果不传参数则使用这些值
 VERSION ?= latest
 DOCKER_PASSWORD ?= your_password_here
-IMAGE_NAME = react-login-demo
 REGISTRY = registry.cn-chengdu.aliyuncs.com
 REPOSITORY = flyeric/react-login-demo
 

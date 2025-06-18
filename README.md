@@ -2,7 +2,7 @@
 
 React Login Demo 是一个基于 React 的现代化 Web 应用，提供用户认证和注册功能。该应用采用最新的前端技术栈，确保良好的用户体验和性能表现。
 
-![image-20250317下午111904061](https://pic-bed-1256249917.cos.ap-chengdu.myqcloud.com/uPic/image-20250317%E4%B8%8B%E5%8D%88111904061.png)
+![image-20250317下午111904061](images/react-login-demo.png)
 
 ## 功能特性
 
